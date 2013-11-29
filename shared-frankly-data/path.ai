@@ -1,0 +1,42 @@
+%!PS-Adobe-2.0
+%%Creator: Adobe Photoshop(TM) Pen Path Export 7.0
+%%Title: (path4.ai)
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 1
+%%ColorUsage: Black&White
+%%BoundingBox: 0 0 9998 2999
+%%HiResBoundingBox: 0 0 9998.7497 2999.6249
+%AI3_Cropmarks: 0 0 9998.7497 2999.6249
+%%DocumentPreview: None
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 1
+%%EndProlog
+%%BeginSetup
+Adobe_IllustratorA_AI3 /initialize get exec
+n
+%%EndSetup
+0.0 0.0 0.0 1.0 k
+0 i 0 J 0 j 1 w 4 M []0 d
+%%Note:
+%Adobe_Photoshop_Path_Begin:<< /defaultFill false >>
+*u
+%AI3_Note:<< /operation /union >>
+1 XR
+1384.8268 3394.3256 m
+1270.6355 2703.3131 1599.8000 2575.4566 v
+1834.6970 2484.2162 3493.3081 2460.9622 3559.5538 2129.7340 C
+3595.5499 1477.8156 1822.3963 1446.5692 1971.7523 759.9052 C
+2197.5368 225.5969 4231.4698 166.9792 4253.4672 1369.8288 C
+4409.4479 2299.7126 5410.5723 2455.0682 6149.2306 2283.7145 C
+6698.9116 2084.2396 6191.1000 1731.5337 5509.3105 1273.8408 C
+4983.6257 861.0175 6219.2216 579.9276 6769.1523 737.9079 C
+7439.3191 859.6428 7395.5742 1088.3641 7885.0132 1045.8694 C
+8489.4378 939.8827 8207.4733 557.9304 8523.4332 293.9634 C
+N
+*U
+%Adobe_Photoshop_Path_End
+%%Trailer
+%%EOF
